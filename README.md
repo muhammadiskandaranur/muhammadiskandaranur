@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Muhammad iskandar anur<br><br>🎓 Informatics Engineering Student | 💻 Software Developer Enthusiast | 🤖 Computer Vision & Mobile App Learner<br><br>I am an Informatics Engineering student with a strong interest in software development, mobile applications, and computer vision. I enjoy learning new technologies and building practical projects that solve real-world problems.<br><br>Currently, I am focusing on:<br><br>📱 Mobile Application Development with Flutter<br>🤖 Computer Vision using OpenCV & MediaPipe<br>🌐 Web Development<br>🗄️ Database Design (MySQL)<br>🧠 Artificial Intelligence & Machine Learning
+👋 Hi, I'm Muhammad iskandar anur<br><br>🎓 Informatics Engineering Student | 💻 Software Developer Enthusiast | 🤖 Computer Vision & Mobile App Learner<br><br>I am an Informatics Engineering student with a strong interest in software development, mobile applications, and computer vision. 
 
 
 ## 🌐 Socials:
