@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋 Hi, I'm Muhammad iskandar anur<br><br>🎓 Informatics Engineering Student | 💻 Software Developer Enthusiast | 🤖 Computer Vision & Mobile App Learner<br><br>I am an Informatics Engineering student with a strong interest in software development, mobile applications, and computer vision. 
 
 
